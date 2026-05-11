@@ -11,34 +11,30 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
+
+<img width="1018" height="809" alt="2" src="https://github.com/user-attachments/assets/ae562057-0448-480b-8be8-bdaf3ce36ca3" />
+
+## Neural Network Model
 Include the neural network model diagram.
 
 ## DESIGN STEPS
-### STEP 1: 
+### STEP 1:
+Load dataset
 
-Write your own steps
+### STEP 2:
+Process the Dataset
 
-### STEP 2: 
+### STEP 3:
+Split features and target
 
+### STEP 4:
+Define Neural Network
 
+### STEP 5:
+Initialize the training loop and train the model
 
-### STEP 3: 
-
-
-
-### STEP 4: 
-
-
-
-### STEP 5: 
-
-
-
-### STEP 6: 
-
-
-
-
+### STEP 6:
+Compute metrics as result
 
 ## PROGRAM
 
@@ -183,19 +179,21 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 ```
 
 ### Dataset Information
-Include screenshot of the dataset.
+<img width="1108" height="398" alt="image" src="https://github.com/user-attachments/assets/f9fce607-b248-46d8-a125-64c39454bee3" />
 
 ### OUTPUT
 
 ## Confusion Matrix
-
-Include confusion matrix here
+<img width="564" height="465" alt="image" src="https://github.com/user-attachments/assets/61489aba-fd1c-4ad1-96ee-46447e9aed3b" />
 
 ## Classification Report
-Include classification report here
+<img width="473" height="356" alt="image" src="https://github.com/user-attachments/assets/83291287-2390-4252-b691-ebc06b1bc582" />
 
-### New Sample Data Prediction
+## New Sample Data Prediction
+
+<img width="295" height="82" alt="image" src="https://github.com/user-attachments/assets/4c8bce01-b77d-48e7-a414-72b4cf2b0fe8" />
+
 Include your sample input and output here
 
 ## RESULT
-Include your result here
+Thus, a Neural Network Classification Model for the given dataset has been developed.
